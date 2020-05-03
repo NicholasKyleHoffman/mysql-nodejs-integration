@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NicholasKyleHoffman/mysql-nodejs-integration/issues"
   },
-  "homepage": "https://github.com/NicholasKyleHoffman/mysql-nodejs-integration#readme"
+  "homepage": "https://github.com/NicholasKyleHoffman/mysql-nodejs-integration#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }
