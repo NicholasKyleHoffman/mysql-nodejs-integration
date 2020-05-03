@@ -1,0 +1,19 @@
+{
+  "name": "mysql-nodejs-integration",
+  "version": "1.0.0",
+  "description": "Integrating MySQL DB connection with NodeJS Application. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasKyleHoffman/mysql-nodejs-integration.git"
+  },
+  "author": "Nicholas Kyle Hoffman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicholasKyleHoffman/mysql-nodejs-integration/issues"
+  },
+  "homepage": "https://github.com/NicholasKyleHoffman/mysql-nodejs-integration#readme"
+}
