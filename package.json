@@ -4,14 +4,18 @@
   "description": "Integrating MySQL DB connection with NodeJS Application. ",
   "main": "main.js",
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NicholasKyleHoffman/mysql-nodejs-integration.git"
   },
-  "author": "Nicholas Kyle Hoffman",
-  "license": "ISC",
+  "author": {
+    "name": "Nicholas Kyle Hoffman",
+    "email": "hoffman.nick89@gmail.com",
+    "url" : "https://www.linkedin.com/in/nicholas-hoffman-m-s-6675003b/"
+  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/NicholasKyleHoffman/mysql-nodejs-integration/issues"
   },
