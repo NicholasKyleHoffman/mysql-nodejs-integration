@@ -2,11 +2,11 @@ var mysql      = require('mysql');
 var connection = mysql.createConnection({
   host     : 'localhost', //mysql database name
   user     : 'root', //mysql database username
-  password : 'Bunker@123', //mysql database password
+  password : '', //mysql database password
   database : 'dummy_db' //mysql database name
 });
 
-// connection.connect();
+connection.connect();
 
 connection.connect(function(err) {
   if (err) throw err
